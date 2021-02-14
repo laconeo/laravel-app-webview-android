@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916333257391",
+    "project_id": "alertados-e163e",
+    "storage_bucket": "alertados-e163e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916333257391:android:e92ebc0f381b283f4c6a5a",
+        "android_client_info": {
+          "package_name": "com.laconeo.alertados"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916333257391-d90h344vv04f6jq3b3d806c5d5goctid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeAyYrzu9Vxo11Jh2T_U1o4fypyqGLWBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916333257391-d90h344vv04f6jq3b3d806c5d5goctid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

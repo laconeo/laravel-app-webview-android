@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Alertados</string>
+    <string name="url_app">http://alertados.com.ar</string>
+    <string name="host">alertados.com.ar</string>
+
+</resources>
